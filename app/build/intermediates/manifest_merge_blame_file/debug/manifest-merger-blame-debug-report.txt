@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.guilhermemesquita.procoserviceapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:5:5-35:19
+12        android:allowBackup="true"
+12-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.2] C:\Users\Guilherme\.gradle\caches\transforms-3\4cba8e7883938e82c1f6363caf5da6ef\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.ProcoServiceApp" >
+21-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:11:9-53
+22        <activity
+22-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:12:9-16:72
+23            android:name="br.com.guilhermemesquita.procoserviceapp.ConfigInicial"
+23-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:13:13-42
+24            android:exported="true"
+24-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:14:13-36
+25            android:label="@string/title_activity_config_inicial"
+25-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:15:13-66
+26            android:theme="@style/Theme.ProcoServiceApp.NoActionBar" />
+26-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:16:13-69
+27        <activity
+27-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:17:9-19:39
+28            android:name="br.com.guilhermemesquita.procoserviceapp.TelaInicialActivity"
+28-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:18:13-48
+29            android:exported="true" />
+29-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:19:13-36
+30        <activity
+30-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:20:9-22:39
+31            android:name="br.com.guilhermemesquita.procoserviceapp.TelaInicial"
+31-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:21:13-40
+32            android:exported="true" />
+32-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:22:13-36
+33        <activity
+33-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:23:9-25:39
+34            android:name="br.com.guilhermemesquita.procoserviceapp.LoginActivity"
+34-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:24:13-42
+35            android:exported="true" />
+35-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:25:13-36
+36        <activity
+36-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:26:9-34:20
+37            android:name="br.com.guilhermemesquita.procoserviceapp.MainActivity"
+37-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:27:13-41
+38            android:exported="true" >
+38-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:28:13-36
+39            <intent-filter>
+39-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:29:13-33:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:30:17-69
+40-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:30:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:32:17-77
+42-->C:\Users\Guilherme\AndroidStudioProjects\ProcoServiceApp\app\src\main\AndroidManifest.xml:32:27-74
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>

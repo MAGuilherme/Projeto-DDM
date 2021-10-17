@@ -1,0 +1,12 @@
+br/com/guilhermemesquita/procoserviceapp/BuildConfig.java
+ br.com.guilhermemesquita.procoserviceapp.BuildConfig
+br/com/guilhermemesquita/procoserviceapp/databinding/ActivityMainBinding.java
+ br.com.guilhermemesquita.procoserviceapp.databinding.ActivityMainBinding
+br/com/guilhermemesquita/procoserviceapp/databinding/ToolbarBinding.java
+ br.com.guilhermemesquita.procoserviceapp.databinding.ToolbarBinding
+br/com/guilhermemesquita/procoserviceapp/databinding/ActivityConfigInicialBinding.java
+ br.com.guilhermemesquita.procoserviceapp.databinding.ActivityConfigInicialBinding
+br/com/guilhermemesquita/procoserviceapp/databinding/ActivityTelaInicialBinding.java
+ br.com.guilhermemesquita.procoserviceapp.databinding.ActivityTelaInicialBinding
+br/com/guilhermemesquita/procoserviceapp/databinding/ActivityLoginBinding.java
+ br.com.guilhermemesquita.procoserviceapp.databinding.ActivityLoginBinding

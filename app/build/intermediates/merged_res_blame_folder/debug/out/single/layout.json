@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_config_inicial.xml",
+        "source": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\src\\main\\res\\layout\\activity_config_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tela_inicial.xml",
+        "source": "C:\\Users\\Guilherme\\AndroidStudioProjects\\ProcoServiceApp\\app\\src\\main\\res\\layout\\activity_tela_inicial.xml"
+    }
+]
